@@ -13,7 +13,7 @@ This paper also comprehensively explains the Soft Quantization using Entropic Re
 
 | File/Folder   | Purpose                                                                                   |
 | ------------- |-------------------------------------------------------------------------------------------|   
-| src           | Sinkhorn algorithm from Section 3.3, and NFFT-accelerated  from Section 4.1 of [[1]](#1) |
+| src           | Soft Quantization algorithm from Section 4.1.1 of [[1]](#1) |
 | Graphs and images        |  Graphs and images of the numerical experiments.               |
 
 
