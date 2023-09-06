@@ -1,6 +1,6 @@
 # Soft Quantization using Entropic Regularization
 The quantization problem aims to find the best possible approximation of probability measures on ℝᵈ using finite, discrete measures. The resultant approximation of probability measures can be employed to effectively compute expectations or moments of random variables. The Wasserstein distance is a typical choice to measure the quality of the approximation. 	This contribution investigates the properties of the entropy-regularized version of Wasserstein distance to measure the approximation quality of the quantization problem. 	The proposed approximation technique naturally adopts the softmin function, which is well known for its robustness in terms of theoretical and practicability standpoints.
-### Reference
+### Reference (Todo: Update link!)
 
 When you are using this code, please cite the paper.
 
