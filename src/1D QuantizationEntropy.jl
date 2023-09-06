@@ -1,7 +1,7 @@
 """
 	Quantization with Entropic Regularization: with explicit, manual derivative
 	created: 2023
-	author©: Rajmadan Lakshmanan, Alois Pichler
+	author©: Rajmadan Lakshmanan and Alois Pichler
 """
 
 using LinearAlgebra, Distributions#, ForwardDiff #, Revise
