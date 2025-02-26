@@ -12,11 +12,11 @@ approach to achieve the optimal solutions. The control parameter in our proposed
 adjustment of the optimization problem’s difficulty level, providing significant advantages when dealing
 with exceptionally challenging problems of interest. As well, this contribution empirically illustrates the
 performance of the method in various expositions.
-### Reference (Todo: Update link!)
+
 
 When you are using this code, please cite the paper.
 
-<a id="1">[1]</a> Rajmadan Lakshmanan and Alois Pichler. (2023). [Soft Quantization using Entropic Regularization](). 
+<a id="1">[1]</a> Rajmadan Lakshmanan and Alois Pichler. (2023). [Soft Quantization using Entropic Regularization](https://www.mdpi.com/1099-4300/25/10/1435). 
 
 This paper also comprehensively explains the Soft Quantization using Entropic Regularization (Not yet updated).
 
